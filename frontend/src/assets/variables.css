@@ -1,0 +1,11 @@
+:root {
+    --navbar-background: #2d2a26;
+    --navbar-color: #c9c3bb;
+    --navbar-width: min(100%, 200px);
+    --navbar-icon-size: 2rem;
+
+    --selected-color: #cd9f26;
+
+    --border-color: lightgray;
+    --border: 1px solid var(--border-color);
+}

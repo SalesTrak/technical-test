@@ -1,0 +1,28 @@
+@import "./variables.css";
+
+body {
+    margin: 0;
+}
+
+#app {
+    height: 100dvh;
+    width: 100dvw;
+    display: flex;
+    flex-direction: row;
+}
+
+.icon {
+    font-family: 'Material Symbols Rounded';
+}
+
+.grow {
+    flex-grow: 1;
+}
+
+main {
+    width: 100%;
+}
+
+h1 {
+    margin: 0;
+}

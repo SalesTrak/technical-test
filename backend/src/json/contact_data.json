@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Phillip Sutton",
+    "title": "Bookseller",
+    "email": "phil.s@dev.test"
+  },
+  {
+    "fullName": "Kelly Young"
+    "title": "Hydrogeologist",
+    "email": "kyoung@dev.test"
+  },
+  {
+    "fullName": "Jennifer Huff",
+    "title": "Engineer, materials",
+    "email": "jen@dev.test",
+  },
+  {
+    "fullName": "Melissa Roy",
+    "title": "Pension scheme manager",
+    "email": "meliro@dev.test"
+  },
+  {
+    "fullName": "Debbie Mccarty",
+    "title": "Make",
+    "email": 'dcar@dev.test'
+  },
+  {
+    "fullName": "Michael Bartlett",
+    "title": "Electrical engineer",
+    "email": "m.bartlett@dev.test"
+  },
+  {
+    "fullName": "Christina Lin",
+    "title": "Conservator, furniture",
+    "email": "clin@dev.test"
+  },
+  {
+    'fullName': "Ronald Ferguson",
+    "title": "Retail merchandiser",
+    "email": "ronald@dev.test"
+  },
+  {
+    "fullName": "Kenneth Myers",
+    "title": "Arboriculturist",
+    "email": "kenmyers@dev.test"
+  },
+  {
+    "fullName": "Carolyn Mooney",
+    "title": "Food technologist",
+    "email": "carolynmooney@dev.test"
+  },
+]

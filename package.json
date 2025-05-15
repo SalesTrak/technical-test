@@ -1,0 +1,17 @@
+{
+  "name": "technical-exam",
+  "author": "Jonathan Kido",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently 'npm:backend' 'npm:frontend'",
+    "cleanup": "node _scripts/cleanup.js",
+    "postinstall": "npm run install:backend && npm run install:frontend && echo 'Install Complete!'",
+    "install:frontend": "echo 'Installing frontend' && cd frontend && npm i",
+    "install:backend": "echo 'Installing backend' && cd backend && npm i",
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
